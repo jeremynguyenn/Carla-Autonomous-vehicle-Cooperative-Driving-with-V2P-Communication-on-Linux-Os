@@ -5,7 +5,7 @@ This scenario is made for demonstration purposes only.
 
 ## Autonomous Driving Mode
 
-[demo1](https://github.com/jeremynguyenn/Carla-Autonomous-vehicle-Cooperative-Driving-with-V2P-Communication-on-Linux-Os/blob/main/Demo/Autonomous_Driving_Mode.gif)
+[demo1](Demo/Autonomous_Driving_Mode.gif)
 
 By using autonomous driving only, the vehicle cannot avoid the crash.
 <br><br>
