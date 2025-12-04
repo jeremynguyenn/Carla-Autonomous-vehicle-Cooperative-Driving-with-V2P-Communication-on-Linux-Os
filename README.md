@@ -5,13 +5,16 @@ This scenario is made for demonstration purposes only.
 
 ## Autonomous Driving Mode
 https://github.com/jeremynguyenn/Carla-Autonomous-vehicle-Cooperative-Driving-with-V2P-Communication-on-Linux-Os/blob/main/Demo/Autonomous_Driving_Mode.mp4
+## --------------------------------------------------------- ##
+
 
 By using autonomous driving only, the vehicle cannot avoid the crash.
 <br><br>
 
 ## Connected Mobility Mode
 https://github.com/jeremynguyenn/Carla-Autonomous-vehicle-Cooperative-Driving-with-V2P-Communication-on-Linux-Os/blob/main/Demo/Connected_Mobility_Mode.mp4
-
+## --------------------------------------------------------- ##
+https://github.com/jeremynguyenn/Carla-Autonomous-vehicle-Cooperative-Driving-with-V2P-Communication-on-Linux-Os/blob/main/Demo/Connected_Mobility_Mode.gif
 
 By using additional network devices with vehicle-to-pedestrian communication (V2P), the vehicle receives the trajectory of the pedestrian, determines an intersection of both and reacts much earlier than in the first scenario. The crash is avoided in this scenario.
 
