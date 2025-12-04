@@ -18,7 +18,7 @@ By using additional network devices with vehicle-to-pedestrian communication (V2
 
 ## Setup
 - Carla 0.9.13
-- Ubuntu 20.04
+- Ubuntu 22.04
 - Python 3.8.10
 
 ## Installation
